@@ -1,5 +1,20 @@
 # Changelog
 
+
+## 2021-03-21
+
+- Smorgasbord
+  - added Communication Response: considerate response
+  - renamed Social Partners to Relationship Publicity
+  - replaced Social Partners: events with work
+  - replaced Life Partners: shared goals with long term goals
+- Instructions
+  - added HALT and note about definitions to instructions
+- References and Influences
+  - improved formatting Worksheets
+- Added QR code
+
+
 ## 2021-03-10
 
 - initial version, heavily influenced by:
